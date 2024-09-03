@@ -42,4 +42,4 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 * Consider including screenshots or a live demo link to provide a better visual representation of the page.
 * If you used any external libraries or frameworks, list them here along with their licenses.
 
-**Remember to replace `your-username` with your actual GitHub username.**
+
